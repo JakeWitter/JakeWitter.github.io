@@ -13,7 +13,7 @@ BS8 1UB
 
 ### Work
 
-[A Nearest-Neighbours Estimator for Conditional Mutual Information](https://zenodo.org/record/5079917) [Slides](https://zenodo.org/record/5079917/files/CNS_Slides.pdf)  
+[A Nearest-Neighbours Estimator for Conditional Mutual Information](https://zenodo.org/record/5079917) - [Slides](https://zenodo.org/record/5079917/files/CNS_Slides.pdf)  
 Jake Witter  
 A short talk given at CNS2021 - Workshop for Methods of Information Theory in Computational Neuroscience.
 <!-- Comment -->
