@@ -13,10 +13,13 @@ BS8 1UB
 
 ### Work
 
-[A Nearest-Neighbours Estimator for Conditional Mutual Information](https://zenodo.org/record/5079917) - [Slides](https://zenodo.org/record/5079917/files/CNS_Slides.pdf)  
-Jake Witter  
+[An Estimator for Conditional Mutual Information and Transfer Entropy on Metric Spaces](https://zenodo.org/record/8199228) - [Poster](https://zenodo.org/record/8199228) \
+Jake Witter, Conor Houghton \
+A poster presented at the Bernstein Conference 2022 in Berlin.
+
+[A Nearest-Neighbours Estimator for Conditional Mutual Information](https://zenodo.org/record/5079917) - [Slides](https://zenodo.org/record/5079917/files/CNS_Slides.pdf) \
+Jake Witter, Conor Houghton \
 A short talk given at CNS2021 - Workshop for Methods of Information Theory in Computational Neuroscience.
-<!-- Comment -->
 
 [A note on the unbiased estimation of mutual information](https://arxiv.org/abs/2105.08682)  
 Jake Witter, Conor Houghton  
